@@ -8,7 +8,7 @@ Andrey has Jimmy's pretty modified M111 harness for W201, set for https://github
 
 Alex is daily driving on Hellen-128-Mercedes
 
-Zoran 
+Zoran has one harness remove from vehicle and removed from engine.
 
 
 
