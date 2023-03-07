@@ -6,18 +6,25 @@ Once this project succeeds this project should be DROPPED. All forever valuable 
 # Hellen128
 
 ❌ most expensive solution since a lot of case/header labor and custom PCB
+
 ❌ not water proof
+
 ❌ harness ends up being about 6 inches short to be comfortable
+
 ✔️ on board WBO
+
 ✔️ works on M104 and M112 and M113
 
 
 # microRusEFI
+
 ❌usb not accessible
 
 
 # Proteus
 ❌vertical connector
+
+❌$ expensice or labor expensice ECU pigtail
 
 
 
