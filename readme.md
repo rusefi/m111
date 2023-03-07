@@ -22,9 +22,9 @@ Once this project succeeds this project should be DROPPED. All forever valuable 
 
 
 # Proteus
-❌vertical connector
+❌vertical connector meaning overall physical shape
 
-❌$ expensice or labor expensice ECU pigtail
+❌dollar expensive or labor expensive ECU pigtail
 
 
 
