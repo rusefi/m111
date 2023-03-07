@@ -5,6 +5,7 @@ Once this project succeeds this project should be DROPPED. All forever valuable 
 
 Andrey has Jimmy's pretty modified M111 harness for W201, set for https://github.com/rusefi/rusefi/wiki/Hellen-128-Mercedes
 
+Zoran 
 
 
 
