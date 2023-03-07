@@ -3,6 +3,11 @@
 Once this project succeeds this project should be DROPPED. All forever valuable info should be stored NOT in this repo.
 
 
+Andrey has Jimmy's pretty modified M111 harness for W201, set for https://github.com/rusefi/rusefi/wiki/Hellen-128-Mercedes
+
+
+
+
 # Hellen128
 
 ❌ most expensive solution since a lot of case/header labor and custom PCB
@@ -26,6 +31,3 @@ Once this project succeeds this project should be DROPPED. All forever valuable 
 
 ❌dollar expensive or labor expensive ECU pigtail
 
-
-
-Andrey has Jimmy's pretty modified M111 harness for W201, set for https://github.com/rusefi/rusefi/wiki/Hellen-128-Mercedes
