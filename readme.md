@@ -29,6 +29,8 @@ Zoran has one harness remove from vehicle and removed from engine.
 
 ❌usb not accessible
 
+https://github.com/rusefi/rusefi/wiki/HOWTO-M111-on-microRusEFI
+
 
 # Proteus
 ❌vertical connector meaning overall physical shape
