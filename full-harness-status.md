@@ -7,7 +7,7 @@
 
 3. Boost control mod https://github.com/rusefi/m111/issues/13
 
-4. Dump VVT https://github.com/rusefi/m111/issues/14
+4. Dumb VVT https://github.com/rusefi/m111/issues/14
 
 5. ✔️Another VVT?! https://github.com/rusefi/rusefi/wiki/OEM-harness-connectors#mercedes
 
