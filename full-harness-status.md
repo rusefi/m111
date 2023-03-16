@@ -19,7 +19,7 @@
 
 9. ✔️cam https://github.com/rusefi/rusefi/wiki/OEM-harness-connectors#mercedes
 
-injectors
+injectors https://github.com/rusefi/rusefi/wiki/OEM-harness-connectors#injectors
 
 ✔️ETB
 
