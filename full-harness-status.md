@@ -19,9 +19,31 @@
 
 9. ✔️cam https://github.com/rusefi/rusefi/wiki/OEM-harness-connectors#mercedes
 
+injectors
+
+✔️ETB
+
+✔️knock (not for microRusEFI)
+
+starter ring terminal
+
+99+ crank https://github.com/rusefi/m111/issues/11
 
 
 ✔️
 
 
-Cam
+
+Body integration
+
+* starter solenoid wire - maybe relay?!
+
+* massive injector +12 from main relay power
+
+* massige GND going where?
+
+
+
+
+
+
