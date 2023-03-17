@@ -1,11 +1,11 @@
 
 # Main harness, starting with all the way from the plugs
 
-1. ❌ SC bypass three wire https://github.com/rusefi/m111/issues/12
+1. ✔️ SC bypass three wire https://github.com/rusefi/m111/issues/12
 
 2. ❌ Super Charger Clutch 2 pins in four pin round connector
 
-3. Boost control mod https://github.com/rusefi/m111/issues/13
+3. ✔️Boost control mod https://github.com/rusefi/m111/issues/13
 
 4. Dumb VVT https://github.com/rusefi/m111/issues/14
 
@@ -19,15 +19,15 @@
 
 9. ✔️cam https://github.com/rusefi/rusefi/wiki/OEM-harness-connectors#mercedes
 
-injectors https://github.com/rusefi/rusefi/wiki/OEM-harness-connectors#injectors
+✔️injectors https://github.com/rusefi/rusefi/wiki/OEM-harness-connectors#injectors
 
 ✔️ETB
 
 ✔️knock (not for microRusEFI)
 
-starter ring terminal
+✔️starter ring terminal
 
-99+ crank https://github.com/rusefi/m111/issues/11
+✔️99+ crank https://github.com/rusefi/m111/issues/11
 
 
 ✔️
